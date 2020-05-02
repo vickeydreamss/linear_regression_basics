@@ -47,3 +47,6 @@ plt.xlabel(p)
 plt.ylabel("Final Grade")
 plt.show()
 # advanced regression codes will be added seprately
+
+print("for more advanced version check, machine learning advanced codeing"
+      )
