@@ -46,3 +46,4 @@ plt.scatter(data[p], data['G3'])
 plt.xlabel(p)
 plt.ylabel("Final Grade")
 plt.show()
+# advanced regression codes will be added seprately
